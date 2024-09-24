@@ -48,6 +48,8 @@
    - Replace the line `print("LED {} is ON".format(i))` with the code that turns the LEDS in blue.
    - At the end of your program, add the code to  all the LEDs off.
    - Test your code thoroughly.
+   - At the end of your program, add the code to  all the LEDs off.
+   - Test your code thoroughly.
 4. At the start of your code, add a block comment to identify you and to explain in plain english what your code does.
 
 ### Submission
@@ -55,3 +57,7 @@
 Upload the two programs `lab3.py` and `code.py` to Github. 
 
 Identify yourself using the txt file.
+
+
+
+

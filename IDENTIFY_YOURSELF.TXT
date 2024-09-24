@@ -1,2 +1,8 @@
-Name:
-Student Number:
+Name: Sharon Mwepu
+Student Number:041172328
+
+    # Prompt if user wants to start again
+    restart = input("Do you want to start again? (n to stop, any other key to continue): ").lower()
+    if restart == 'n':
+        print("Program ended.")
+        break
